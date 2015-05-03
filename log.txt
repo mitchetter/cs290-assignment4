@@ -1,0 +1,19 @@
+Start: Thu, Apr 30 2015 12:30:00 -0800
+End: Thu, Apr 30 2015 16:40:00 -0800
+Started building multtable.php. Worked in error handling and input validation
+
+Start: Fri, May 1 2015 09:30:00 -0800
+End: Fri, May 1 2015 11:20:00 -0800
+Completed multtable.php, built the table and validate html5 output.
+
+Start: Fri, May 1 18:10:00 -0800
+End: Fri, May 1 19:13:00 -0800
+Began work on loopback.php.
+
+Start: Sat, May 2 11:15:00 -0800
+End: Sat, May 2 13:00:00 -0800
+Finished loopback.php and began work on login.php and content1
+
+Start: Sat May 2 16:40:00 -0800
+End: Sat May 2 19:05:00 -0800
+Put the final touches on all of the pages and double checked that they were all functioning properly.
